@@ -1,0 +1,10 @@
+streamlit 
+pandas 
+sqlalchemy 
+sqlite-utils 
+plotly
+scikit-learn
+numpy
+matplotlib
+seaborn
+db-sqlite3
